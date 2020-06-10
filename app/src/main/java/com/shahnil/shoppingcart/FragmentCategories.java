@@ -70,6 +70,7 @@ public class FragmentCategories extends Fragment {
 
                         break;
 
+
                     case 1:
                         Toast.makeText(getActivity(), "item 1 clicked ", Toast.LENGTH_SHORT).show();
                         break;
